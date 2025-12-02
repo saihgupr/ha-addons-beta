@@ -7,3 +7,6 @@
 [submodule "addons/HomeAssistantVersionControlBeta"]
 	path = addons/HomeAssistantVersionControlBeta
 	url = https://github.com/saihgupr/HomeAssistantVersionControlBeta
+[submodule "HomeAssistantVersionControlBeta"]
+	path = HomeAssistantVersionControlBeta
+	url = https://github.com/saihgupr/HomeAssistantVersionControlBeta
