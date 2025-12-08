@@ -7,3 +7,12 @@
 [submodule "HomeAssistantVersionControlBeta"]
 	path = HomeAssistantVersionControlBeta
 	url = https://github.com/saihgupr/HomeAssistantVersionControlBeta
+[submodule "addons/HomeAssistantTimeMachineBeta"]
+	path = addons/HomeAssistantTimeMachineBeta
+	url = https://github.com/saihgupr/HomeAssistantTimeMachineBeta
+[submodule "addons/HomeAssistantTimeMachine"]
+	path = addons/HomeAssistantTimeMachine
+	url = https://github.com/saihgupr/HomeAssistantTimeMachine
+[submodule "HomeAssistantVersionControl"]
+	path = HomeAssistantVersionControl
+	url = https://github.com/saihgupr/HomeAssistantVersionControl
