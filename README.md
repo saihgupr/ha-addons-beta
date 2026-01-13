@@ -1,4 +1,4 @@
-# Saihgupr Beta Add-ons Repository
+# Saihgupr's Beta Add-ons Repository
 
 **Beta/Experimental Add-ons** - These add-ons contain new features that are still being tested.
 
