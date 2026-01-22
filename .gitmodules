@@ -6,3 +6,6 @@
 	path = HomeAssistantVersionControl
 	url = https://github.com/saihgupr/HomeAssistantVersionControl.git
 	branch = develop
+[submodule "HomeAssistantDigest"]
+	path = HomeAssistantDigest
+	url = https://github.com/saihgupr/HomeAssistantDigest.git
