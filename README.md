@@ -4,7 +4,7 @@
 
 This repository contains beta versions of Home Assistant Add-ons with experimental features.
 
-> [!CAUTION]
+> [!IMPORTANT]
 > **These projects are currently in BETA and under active development.**
 > We welcome all testing, bug reports, and feature requests! If you encounter any issues, please open an issue in the respective repository.
 
