@@ -8,6 +8,7 @@ This repository contains beta versions of Home Assistant Add-ons with experiment
 
 - **[Home Assistant Version Control Beta](https://github.com/saihgupr/HomeAssistantVersionControl/tree/develop)**: Beta version of the version control add-on with experimental features.
 - **[Home Assistant Time Machine Beta](https://github.com/saihgupr/HomeAssistantTimeMachine/tree/develop)**: Beta version of the "Time Machine" add-on with new functionality.
+- **[Home Assistant Digest](https://github.com/saihgupr/HomeAssistantDigest)**: AI-powered daily health reports for your smart home.
 
 ## Installation
 
