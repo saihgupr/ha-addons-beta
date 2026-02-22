@@ -9,3 +9,7 @@
 [submodule "HomeAssistantDigest"]
 	path = HomeAssistantDigest
 	url = https://github.com/saihgupr/HomeAssistantDigest.git
+[submodule "HomeAssistantEditor"]
+	path = HomeAssistantEditor
+	url = https://github.com/saihgupr/HomeAssistantEditor.git
+	branch = develop
